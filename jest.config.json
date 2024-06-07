@@ -5,5 +5,8 @@
   "testPathIgnorePatterns": ["<rootDir>/dist/", "<rootDir>/build/"],
   "moduleNameMapper": {
     "(.+)\\.js": "$1"
+  },
+  "globals": {
+    "SpreadsheetApp": {}
   }
 }
