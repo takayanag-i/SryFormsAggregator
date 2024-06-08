@@ -1,4 +1,4 @@
-Copyright 2024 takayanagi@sry.hyogo-c.ed.jp
+Copyright 2024 takayanag-i
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
